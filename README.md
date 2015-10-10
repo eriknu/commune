@@ -1,3 +1,5 @@
 # commune
 
-Live free.
+##Get going
+node install
+
